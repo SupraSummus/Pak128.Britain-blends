@@ -1,5 +1,8 @@
 *.blend1
 *.blend2
+*.blend3
+*.bphys
+blendcache*/
 air/closed-source-models/
 bus-lorry/bus/closed-source-models/
 */too-big
